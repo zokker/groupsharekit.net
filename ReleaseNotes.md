@@ -1,3 +1,4 @@
+#test 
 # New in 1.3.6
 * [#20](https://github.com/sdl/groupsharekit.net/pull/20)Added configurable TwelveHourDateTimeConverter
 * [#22](https://github.com/sdl/groupsharekit.net/pull/22)Move service clients up to the interface and allow getting user environment variable
